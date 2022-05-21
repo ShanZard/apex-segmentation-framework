@@ -1,0 +1,1 @@
+epoch,iteration,train/loss_seg,valid/loss_CE,elapsed_time
